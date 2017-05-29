@@ -1,7 +1,7 @@
 # web-scraping-with-python
 &lt;파이썬으로 웹 크롤러 만들기> 리모트 스터디    
 
-![book-cover](http://www.hanbit.co.kr/data/books/B7159663510_l.jpg)
+![book-cover](http://www.hanbit.co.kr/data/books/B7159663510_l.jpg)    
 질문시간은 2017.05.30. 부터 매주 화요일에 진행합니다.
 
 #### plan
